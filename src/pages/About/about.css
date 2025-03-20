@@ -1,0 +1,40 @@
+.about{
+    display: flex;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.about-content{
+    width: 80%;
+    font-size: 50px;
+    color: rgb(38, 38, 53);
+    margin-top: 2%;
+
+}
+.about-content h1{
+    font-size: 50px;
+    color: rgb(69, 43, 99);
+    margin-bottom: 3%;
+    justify-content: start;
+}
+
+.about-content p{
+    font-size: 20px;
+    color: rgb(149, 149, 149);
+}
+
+.about-content img{
+    width: 100%;
+    margin-top: 13PX;
+}
+
+.about-content .p2{
+    font-size: 22px;
+    margin-top: 3%;
+    color: rgb(69, 43, 99);
+    font-weight: bold;
+    padding-bottom: 3%;
+}
